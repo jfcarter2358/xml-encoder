@@ -137,5 +137,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-test_exml/
+test_encoded/
 test_xml/
+test_decoded/

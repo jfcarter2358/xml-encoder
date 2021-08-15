@@ -1,0 +1,5 @@
+[SIMILARITIES]
+
+# Ignore imports when computing similarities.
+ignore-imports=yes
+disable=C0114,R0912,R0913,R0914,R0915
